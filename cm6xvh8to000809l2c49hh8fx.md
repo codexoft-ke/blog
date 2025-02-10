@@ -499,9 +499,7 @@ Mastering SQL is a journey—from understanding relational database fundamentals
 
 Practice, experimentation, and continuous learning are key to developing your SQL expertise. With this guide as your roadmap, you’re well-equipped to become proficient in SQL and apply these skills in today’s data-driven world.
 
-Happy querying!
-
----
+**Next Up**: In **Part 4: Working with NoSQL Databases**, we’ll explore MongoDB, Redis, and other non-relational systems!
 
 ---
 
