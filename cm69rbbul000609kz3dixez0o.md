@@ -235,6 +235,8 @@ Transform congregation communication through sophisticated, multi-channel engage
 
 ## Recommendation: Gospel Admin
 
+[**Gospel Admin**](https://www.gospeladmin.co.ke) is a **powerful church management system (CHMS)** designed to help churches streamline administration, enhance member engagement, and simplify operations. It provides an all-in-one solution for managing church data, facilitating communication, handling online giving, and supporting media needs. With a focus on efficiency and accessibility, Gospel Admin empowers churches to connect with their members seamlessly and manage their activities with ease.
+
 For churches seeking a comprehensive solution, Gospel Admin represents an innovative Church Management System. Its robust features, user-friendly interface, and commitment to organizational empowerment make it a standout choice for modern religious institutions.
 
 ### Contact Information
