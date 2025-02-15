@@ -188,7 +188,7 @@ CREATE TABLE sensor_readings (
 
 Neo4j stores data as **nodes** (entities) and **relationships** (connections).
 
-**Example: Social Network**  
+**Example: Social Network**
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1739645296035/b78e17f4-a8d5-4925-84da-ffc752354a78.png align="center")
 
@@ -253,7 +253,7 @@ Modern applications often combine SQL and NoSQL databases:
 
 NoSQL databases solve problems relational databases can’t—whether it’s scaling to millions of users, storing unstructured data, or traversing complex relationships. By understanding their strengths and tradeoffs, you can architect systems that are both powerful and efficient.
 
-**Next Up**: In **Part 5: Advanced Database Concepts**, we’ll explore transactions, data warehousing, and distributed systems!
+**Next Up**: In [**Part 5: Advanced Database Concepts**](https://blog.codexoft.tech/part-5-advanced-database-concepts), we’ll explore transactions, data warehousing, and distributed systems!
 
 ---
 
