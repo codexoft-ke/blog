@@ -188,7 +188,7 @@ gcloud sql instances create my-instance --database-version=POSTGRES_14
 
 Database security and administration are critical for safeguarding data and ensuring seamless operations. By implementing robust authentication, backups, and high availability, you protect against breaches and downtime. Cloud databases further simplify administration, letting you focus on innovation.
 
-**Next Up**: In **Part 7: Real-World Applications and Trends**, we’ll explore IoT, machine learning, and blockchain integrations!
+**Next Up**: In [**Part 7: Real-World Applications and Trends**](https://blog.codexoft.tech/part-7-real-world-applications-and-trends), we’ll explore IoT, machine learning, and blockchain integrations!
 
 ---
 
