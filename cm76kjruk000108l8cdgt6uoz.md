@@ -209,7 +209,7 @@ Real-time data streaming.
 
 Advanced database concepts like ACID transactions, partitioning, and distributed systems empower scalable, reliable applications. By leveraging tools like Elasticsearch for search and Spark for big data, you can tackle modern data challenges head-on.
 
-**Next Up**: In **Part 6: Database Security and Administration**, we’ll explore encryption, backups, and cloud solutions!
+**Next Up**: In [**Part 6: Database Security and Administration**](https://blog.codexoft.tech/part-6-database-security-and-administration), we’ll explore encryption, backups, and cloud solutions!
 
 ---
 
