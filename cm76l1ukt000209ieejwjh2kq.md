@@ -211,7 +211,7 @@ results = pinecone.query("products", vector=[0.3, 0.6, ..., 0.8], top_k=5)
 
 From IoT to blockchain, databases are evolving to meet the demands of modern applications. By integrating ML, embracing scalability, and adopting cutting-edge trends, developers can build systems that are not just reactive but predictive.
 
-**Next Up**: In **Part 8: Mastering Databases**, we’ll explore full-stack integration, DevOps, and open-source contributions!
+**Finally**: In [**Part 8: Mastering Databases**](https://blog.codexoft.tech/part-8-mastering-databases), we’ll explore full-stack integration, DevOps, and open-source contributions!
 
 ---
 
