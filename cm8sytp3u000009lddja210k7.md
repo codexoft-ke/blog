@@ -1,6 +1,6 @@
 ---
 title: "How to Apply for an M-Pesa Paybill Number or Till Number and API Setup"
-seoTitle: "M-Pesa Paybill and Till Number Application Guide"
+seoTitle: "M-Pesa Paybill and API: Application Guide"
 seoDescription: "Learn how to apply for an M-Pesa Paybill or Till Number for seamless business transactions with this step-by-step guide"
 datePublished: Fri Mar 28 2025 15:56:54 GMT+0000 (Coordinated Universal Time)
 cuid: cm8sytp3u000009lddja210k7
