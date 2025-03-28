@@ -6,6 +6,7 @@ datePublished: Fri Mar 28 2025 15:56:54 GMT+0000 (Coordinated Universal Time)
 cuid: cm8sytp3u000009lddja210k7
 slug: m-pesa-paybill-number-or-till-number-application-and-api-setup
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743177236209/a9f5ef22-736d-49c4-9f74-c7799ed1c30e.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743177491249/135cb7a2-38af-4fd9-ba95-4a3925990cf6.png
 tags: mpesa, daraja-api, paybill
 
 ---
